@@ -1,0 +1,109 @@
+date,time,home_team,away_team,venue,stadium_details,weather_forecast
+2024-10-22,12:45 pm,AC Milan,Club Brugge,Stadio Giuseppe Meazza,"('Milan', 'Italy')",Moderate or heavy rain shower
+2024-10-22,12:45 pm,Monaco,Red Star Belgrade,Stade Louis II,"('Monaco', 'Monaco')",Moderate or heavy rain shower
+2024-10-22,3:00 pm,Aston Villa,Bologna,Villa Park,"('Birmingham', 'England')",Moderate rain at times
+2024-10-22,3:00 pm,PSG,PSV,Parc des Princes,"('Paris', 'France')",Heavy rain at times
+2024-10-22,3:00 pm,Juventus,Stuttgart,Allianz Stadium,"('Turin', 'Italy')",Heavy rain at times
+2024-10-22,3:00 pm,Arsenal,Shakhtar Donetsk,Emirates Stadium,"('London', 'England')",Moderate rain at times
+2024-10-22,3:00 pm,Real Madrid,Borussia Dortmund,Santiago Bernabéu,"('Madrid', 'Spain')",Moderate or heavy rain shower
+2024-10-22,3:00 pm,SK Sturm Graz,Sporting CP,Merkur Arena,"('Graz', 'Austria')",Moderate or heavy rain shower
+2024-10-22,3:00 pm,Girona,Slovan Bratislava,Estadi Municipal de Montilivi,"('Girona', 'Spain')",Moderate or heavy rain shower
+2024-10-23,12:45 pm,Atalanta,Celtic,Gewiss Stadium,"('Bergamo', 'Italy')",Moderate or heavy rain shower
+2024-10-23,12:45 pm,Brest,Bayer Leverkusen,Stade du Roudourou,"('Guingamp', 'France')",Moderate or heavy rain shower
+2024-10-23,3:00 pm,Manchester City,Sparta Praha,Etihad Stadium,"('Manchester', 'England')",Moderate or heavy rain shower
+2024-10-23,3:00 pm,Atletico Madrid,Lille,Estadio Civitas Metropolitano,"('Madrid', 'Spain')",Moderate or heavy rain shower
+2024-10-23,3:00 pm,RB Salzburg,Dinamo Zagreb,Red Bull Arena,"('Salzburg', 'Austria')",Moderate or heavy rain shower
+2024-10-23,3:00 pm,Young Boys,Inter,Stade de Suisse Wankdorf,"('Bern', 'Switzerland')",Moderate or heavy rain shower
+2024-10-23,3:00 pm,Barcelona,Bayern Munich,Estadi Olimpic Lluis Companys,"('Barcelona', 'Spain')",Moderate or heavy rain shower
+2024-10-23,3:00 pm,Benfica,Feyenoord,Estadio do Sport Lisboa e Benfica,"('Lisbon', 'Portugal')",Moderate or heavy rain shower
+2024-10-23,3:00 pm,RB Leipzig,Liverpool,Red Bull Arena,"('Salzburg', 'Austria')",Moderate or heavy rain shower
+2024-11-05,12:45 pm,PSV,Girona,Philips Stadion,"('Eindhoven', 'Netherlands')",Moderate or heavy rain shower
+2024-11-05,12:45 pm,Slovan Bratislava,Dinamo Zagreb,Stadion Tehelne pole,"('Bratislava', 'Slovakia')",Moderate or heavy rain shower
+2024-11-05,3:00 pm,Borussia Dortmund,SK Sturm Graz,Signal Iduna Park,"('Dortmund', 'Germany')",Moderate or heavy rain shower
+2024-11-05,3:00 pm,Bologna,Monaco,Renato Dall'Ara,"('Bologna', 'Italy')",Moderate or heavy rain shower
+2024-11-05,3:00 pm,Liverpool,Bayer Leverkusen,Anfield,"('Liverpool', 'England')",Moderate or heavy rain shower
+2024-11-05,3:00 pm,Lille,Juventus,Stade Pierre Mauroy,"('Lille', 'France')",Moderate or heavy rain shower
+2024-11-05,3:00 pm,Celtic,RB Leipzig,Celtic Park,"('Glasgow', 'Scotland')",Moderate or heavy rain shower
+2024-11-05,3:00 pm,Real Madrid,AC Milan,Santiago Bernabéu,"('Madrid', 'Spain')",Moderate or heavy rain shower
+2024-11-05,3:00 pm,Sporting CP,Manchester City,Jose Alvalde,"('Lisbon', 'Portugal')",Moderate or heavy rain shower
+2024-11-06,12:45 pm,Club Brugge,Aston Villa,Jan Breydelstadion,"('Bruges', 'Belgium')",Moderate or heavy rain shower
+2024-11-06,12:45 pm,Shakhtar Donetsk,Young Boys,Veltins-Arena,"('Gelsenkirchen', 'Germany')",Moderate or heavy rain shower
+2024-11-06,3:00 pm,Stuttgart,Atalanta,Mercedes-Benz Arena,"('Stuttgart', 'Germany')",Heavy rain at times
+2024-11-06,3:00 pm,PSG,Atletico Madrid,Parc des Princes,"('Paris', 'France')",Moderate or heavy rain shower
+2024-11-06,3:00 pm,Feyenoord,RB Salzburg,Stadion Feijenoord,"('Rotterdam', 'Netherlands')",Moderate or heavy rain shower
+2024-11-06,3:00 pm,Sparta Praha,Brest,epet ARENA,"('Prague', 'Czech Republic')",Heavy rain at times
+2024-11-06,3:00 pm,Red Star Belgrade,Barcelona,Stadion Rajko Mitic,"('Belgrade', 'Serbia')",Moderate or heavy rain shower
+2024-11-06,3:00 pm,Inter,Arsenal,Stadio Giuseppe Meazza,"('Milan', 'Italy')",Moderate or heavy rain shower
+2024-11-06,3:00 pm,Bayern Munich,Benfica,Allianz Arena,"('Munich', 'Germany')",Moderate or heavy rain shower
+2024-11-26,12:45 pm,Sparta Praha,Atletico Madrid,epet ARENA,"('Prague', 'Czech Republic')",Patchy rain possible
+2024-11-26,12:45 pm,Slovan Bratislava,AC Milan,Stadion Tehelne pole,"('Bratislava', 'Slovakia')",Moderate or heavy rain shower
+2024-11-26,3:00 pm,Manchester City,Feyenoord,Etihad Stadium,"('Manchester', 'England')",Moderate or heavy rain shower
+2024-11-26,3:00 pm,Bayer Leverkusen,RB Salzburg,BayArena,"('Leverkusen', 'Germany')",Heavy rain at times
+2024-11-26,3:00 pm,Young Boys,Atalanta,Stade de Suisse Wankdorf,"('Bern', 'Switzerland')",Moderate or heavy rain shower
+2024-11-26,3:00 pm,Inter,RB Leipzig,Stadio Giuseppe Meazza,"('Milan', 'Italy')",Moderate or heavy rain shower
+2024-11-26,3:00 pm,Barcelona,Brest,Estadi Olimpic Lluis Companys,"('Barcelona', 'Spain')",Moderate or heavy rain shower
+2024-11-26,3:00 pm,Bayern Munich,PSG,Allianz Arena,"('Munich', 'Germany')",Heavy rain at times
+2024-11-26,3:00 pm,Sporting CP,Arsenal,Jose Alvalde,"('Lisbon', 'Portugal')",Moderate or heavy rain shower
+2024-11-27,12:45 pm,Red Star Belgrade,Stuttgart,Stadion Rajko Mitic,"('Belgrade', 'Serbia')",Moderate or heavy rain shower
+2024-11-27,12:45 pm,SK Sturm Graz,Girona,Merkur Arena,"('Graz', 'Austria')",Moderate rain at times
+2024-11-27,3:00 pm,Aston Villa,Juventus,Villa Park,"('Birmingham', 'England')",Moderate or heavy rain shower
+2024-11-27,3:00 pm,Bologna,Lille,Renato Dall'Ara,"('Bologna', 'Italy')",Moderate rain at times
+2024-11-27,3:00 pm,Monaco,Benfica,Stade Louis II,"('Monaco', 'Monaco')",Moderate or heavy rain shower
+2024-11-27,3:00 pm,Dinamo Zagreb,Borussia Dortmund,Stadion Maksimir,"('Zagreb', 'Croatia')",Moderate rain at times
+2024-11-27,3:00 pm,Liverpool,Real Madrid,Anfield,"('Liverpool', 'England')",Moderate or heavy rain shower
+2024-11-27,3:00 pm,Celtic,Club Brugge,Celtic Park,"('Glasgow', 'Scotland')",Moderate or heavy rain shower
+2024-11-27,3:00 pm,PSV,Shakhtar Donetsk,Philips Stadion,"('Eindhoven', 'Netherlands')",Moderate or heavy rain shower
+2024-12-10,12:45 pm,Dinamo Zagreb,Celtic,Stadion Maksimir,"('Zagreb', 'Croatia')",Moderate or heavy rain shower
+2024-12-10,12:45 pm,Girona,Liverpool,Estadi Municipal de Montilivi,"('Girona', 'Spain')",Moderate rain at times
+2024-12-10,3:00 pm,Bayer Leverkusen,Inter,BayArena,"('Leverkusen', 'Germany')",Moderate or heavy rain shower
+2024-12-10,3:00 pm,Atalanta,Real Madrid,Gewiss Stadium,"('Bergamo', 'Italy')",Moderate rain at times
+2024-12-10,3:00 pm,Club Brugge,Sporting CP,Jan Breydelstadion,"('Bruges', 'Belgium')",Moderate or heavy rain shower
+2024-12-10,3:00 pm,RB Salzburg,PSG,Red Bull Arena,"('Salzburg', 'Austria')",Moderate or heavy snow showers
+2024-12-10,3:00 pm,Brest,PSV,Stade du Roudourou,"('Guingamp', 'France')",Moderate or heavy rain shower
+2024-12-10,3:00 pm,Shakhtar Donetsk,Bayern Munich,Veltins-Arena,"('Gelsenkirchen', 'Germany')",Moderate or heavy rain shower
+2024-12-10,3:00 pm,RB Leipzig,Aston Villa,Red Bull Arena,"('Salzburg', 'Austria')",Moderate or heavy snow showers
+2024-12-11,12:45 pm,Atletico Madrid,Slovan Bratislava,Estadio Civitas Metropolitano,"('Madrid', 'Spain')",Moderate or heavy rain shower
+2024-12-11,12:45 pm,Lille,SK Sturm Graz,Stade Pierre Mauroy,"('Lille', 'France')",Moderate or heavy rain shower
+2024-12-11,3:00 pm,Borussia Dortmund,Barcelona,Signal Iduna Park,"('Dortmund', 'Germany')",Moderate or heavy rain shower
+2024-12-11,3:00 pm,Stuttgart,Young Boys,Mercedes-Benz Arena,"('Stuttgart', 'Germany')",Moderate or heavy rain shower
+2024-12-11,3:00 pm,Juventus,Manchester City,Allianz Stadium,"('Turin', 'Italy')",Moderate or heavy rain shower
+2024-12-11,3:00 pm,AC Milan,Red Star Belgrade,Stadio Giuseppe Meazza,"('Milan', 'Italy')",Moderate or heavy rain shower
+2024-12-11,3:00 pm,Feyenoord,Sparta Praha,Stadion Feijenoord,"('Rotterdam', 'Netherlands')",Moderate or heavy rain shower
+2024-12-11,3:00 pm,Arsenal,Monaco,Emirates Stadium,"('London', 'England')",Moderate or heavy rain shower
+2024-12-11,3:00 pm,Benfica,Bologna,Estadio do Sport Lisboa e Benfica,"('Lisbon', 'Portugal')",Moderate or heavy rain shower
+2025-01-21,12:45 pm,Atalanta,SK Sturm Graz,Gewiss Stadium,"('Bergamo', 'Italy')",Moderate or heavy rain shower
+2025-01-21,12:45 pm,Monaco,Aston Villa,Stade Louis II,"('Monaco', 'Monaco')",Moderate or heavy rain shower
+2025-01-21,3:00 pm,Bologna,Borussia Dortmund,Renato Dall'Ara,"('Bologna', 'Italy')",Heavy rain at times
+2025-01-21,3:00 pm,Atletico Madrid,Bayer Leverkusen,Estadio Civitas Metropolitano,"('Madrid', 'Spain')",Moderate rain at times
+2025-01-21,3:00 pm,Club Brugge,Juventus,Jan Breydelstadion,"('Bruges', 'Belgium')",Moderate rain at times
+2025-01-21,3:00 pm,Red Star Belgrade,PSV,Stadion Rajko Mitic,"('Belgrade', 'Serbia')",Moderate or heavy rain shower
+2025-01-21,3:00 pm,Liverpool,Lille,Anfield,"('Liverpool', 'England')",Moderate or heavy rain shower
+2025-01-21,3:00 pm,Benfica,Barcelona,Estadio do Sport Lisboa e Benfica,"('Lisbon', 'Portugal')",Moderate rain at times
+2025-01-21,3:00 pm,Slovan Bratislava,Stuttgart,Stadion Tehelne pole,"('Bratislava', 'Slovakia')",Moderate or heavy snow showers
+2025-01-22,12:45 pm,Shakhtar Donetsk,Brest,Veltins-Arena,"('Gelsenkirchen', 'Germany')",Moderate or heavy rain shower
+2025-01-22,12:45 pm,RB Leipzig,Sporting CP,Red Bull Arena,"('Salzburg', 'Austria')",Moderate or heavy snow showers
+2025-01-22,3:00 pm,PSG,Manchester City,Parc des Princes,"('Paris', 'France')",Moderate or heavy rain shower
+2025-01-22,3:00 pm,AC Milan,Girona,Stadio Giuseppe Meazza,"('Milan', 'Italy')",Moderate or heavy rain shower
+2025-01-22,3:00 pm,Feyenoord,Bayern Munich,Stadion Feijenoord,"('Rotterdam', 'Netherlands')",Heavy rain at times
+2025-01-22,3:00 pm,Sparta Praha,Inter,epet ARENA,"('Prague', 'Czech Republic')",Moderate snow
+2025-01-22,3:00 pm,Arsenal,Dinamo Zagreb,Emirates Stadium,"('London', 'England')",Moderate or heavy rain shower
+2025-01-22,3:00 pm,Celtic,Young Boys,Celtic Park,"('Glasgow', 'Scotland')",Moderate or heavy rain shower
+2025-01-22,3:00 pm,Real Madrid,RB Salzburg,Santiago Bernabéu,"('Madrid', 'Spain')",Heavy rain at times
+2025-01-29,3:00 pm,Aston Villa,Celtic,Villa Park,"('Birmingham', 'England')",Moderate or heavy rain shower
+2025-01-29,3:00 pm,Inter,Monaco,Stadio Giuseppe Meazza,"('Milan', 'Italy')",Moderate rain at times
+2025-01-29,3:00 pm,SK Sturm Graz,RB Leipzig,Merkur Arena,"('Graz', 'Austria')",Patchy moderate snow
+2025-01-29,3:00 pm,Sporting CP,Bologna,Jose Alvalde,"('Lisbon', 'Portugal')",Patchy rain possible
+2025-01-29,3:00 pm,PSV,Liverpool,Philips Stadion,"('Eindhoven', 'Netherlands')",Moderate or heavy rain shower
+2025-01-29,3:00 pm,Bayern Munich,Slovan Bratislava,Allianz Arena,"('Munich', 'Germany')",Moderate or heavy snow showers
+2025-01-29,3:00 pm,Barcelona,Atalanta,Estadi Olimpic Lluis Companys,"('Barcelona', 'Spain')",Heavy rain at times
+2025-01-29,3:00 pm,Lille,Feyenoord,Stade Pierre Mauroy,"('Lille', 'France')",Moderate or heavy rain shower
+2025-01-29,3:00 pm,Young Boys,Red Star Belgrade,Stade de Suisse Wankdorf,"('Bern', 'Switzerland')",Moderate or heavy snow showers
+2025-01-29,3:00 pm,Manchester City,Club Brugge,Etihad Stadium,"('Manchester', 'England')",Moderate or heavy rain shower
+2025-01-29,3:00 pm,Brest,Real Madrid,Stade du Roudourou,"('Guingamp', 'France')",Moderate or heavy rain shower
+2025-01-29,3:00 pm,RB Salzburg,Atletico Madrid,Red Bull Arena,"('Salzburg', 'Austria')",Moderate or heavy snow showers
+2025-01-29,3:00 pm,Dinamo Zagreb,AC Milan,Stadion Maksimir,"('Zagreb', 'Croatia')",Moderate snow
+2025-01-29,3:00 pm,Juventus,Benfica,Allianz Stadium,"('Turin', 'Italy')",Moderate or heavy rain shower
+2025-01-29,3:00 pm,Stuttgart,PSG,Mercedes-Benz Arena,"('Stuttgart', 'Germany')",Moderate or heavy rain shower
+2025-01-29,3:00 pm,Bayer Leverkusen,Sparta Praha,BayArena,"('Leverkusen', 'Germany')",Moderate or heavy rain shower
+2025-01-29,3:00 pm,Borussia Dortmund,Shakhtar Donetsk,Signal Iduna Park,"('Dortmund', 'Germany')",Moderate or heavy rain shower
+2025-01-29,3:00 pm,Girona,Arsenal,Estadi Municipal de Montilivi,"('Girona', 'Spain')",Moderate or heavy rain shower

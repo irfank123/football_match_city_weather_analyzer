@@ -1,0 +1,15 @@
+# Python environment files
+env/
+venv/
+
+# API Keys or sensitive config files
+config.py
+settings.py
+*.env
+
+# Log files
+*.log
+
+# macOS specific files
+.DS_Store
+

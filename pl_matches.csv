@@ -1,0 +1,305 @@
+date,time,home_team,away_team,venue,stadium_details
+20240928,7:30 amUSA,Newcastle United,Manchester City,St. James' Park,Newcastle upon Tyne
+20240928,10:00 amPEAC,Arsenal,Leicester City,Emirates Stadium,London
+20240928,10:00 amPEAC,Chelsea,Brighton & Hove Albion,Stamford Bridge,London
+20240928,10:00 amPEAC,Everton,Crystal Palace,Goodison Park,Liverpool
+20240928,10:00 amPEAC,Nottingham Forest,Fulham,The City Ground,Nottingham
+20240928,10:00 amUSA,Brentford,West Ham United,Gtech Community Stadium,London
+20240928,12:30 pmUSA,Wolverhampton,Liverpool,Molineux,Wolverhampton
+20240929,9:00 amUSA,Ipswich Town,Aston Villa,Portman Road,Ipswich
+20240929,11:30 amUSA,Manchester United,Tottenham Hotspur,Old Trafford,Manchester
+20241005,7:30 am,Crystal Palace,Liverpool,Selhurst Park,London
+20241005,10:00 am,Arsenal,Southampton,Emirates Stadium,London
+20241005,10:00 am,Leicester City,Bournemouth,King Power Stadium,Leicester
+20241005,10:00 am,Manchester City,Fulham,Etihad Stadium,Manchester
+20241005,10:00 am,West Ham United,Ipswich Town,London Stadium,London
+20241005,10:00 am,Brentford,Wolverhampton,Gtech Community Stadium,London
+20241005,12:30 pm,Everton,Newcastle United,Goodison Park,Liverpool
+20241006,9:00 am,Aston Villa,Manchester United,Villa Park,Birmingham
+20241006,9:00 am,Chelsea,Nottingham Forest,Stamford Bridge,London
+20241006,11:30 am,Brighton & Hove Albion,Tottenham Hotspur,American Express Community Stadium,Brighton
+20241019,7:30 am,Tottenham Hotspur,West Ham United,Tottenham Hotspur Stadium,London
+20241019,10:00 am,Ipswich Town,Everton,Portman Road,Ipswich
+20241019,10:00 am,Manchester United,Brentford,Old Trafford,Manchester
+20241019,10:00 am,Newcastle United,Brighton & Hove Albion,St. James' Park,Newcastle upon Tyne
+20241019,10:00 am,Southampton,Leicester City,St. Mary's Stadium,Southampton
+20241019,10:00 am,Fulham,Aston Villa,Craven Cottage,London
+20241019,12:30 pm,Bournemouth,Arsenal,Vitality Stadium,Bournemouth
+20241020,9:00 am,Wolverhampton,Manchester City,Molineux,Wolverhampton
+20241020,11:30 am,Liverpool,Chelsea,Anfield,Liverpool
+20241026,10:00 am,Aston Villa,Bournemouth,Villa Park,Birmingham
+20241026,10:00 am,Manchester City,Southampton,Etihad Stadium,Manchester
+20241026,10:00 am,Brighton & Hove Albion,Wolverhampton,American Express Community Stadium,Brighton
+20241026,10:00 am,Brentford,Ipswich Town,Gtech Community Stadium,London
+20241026,12:30 pm,Everton,Fulham,Goodison Park,Liverpool
+20241027,10:00 am,Chelsea,Newcastle United,Stamford Bridge,London
+20241027,10:00 am,West Ham United,Manchester United,London Stadium,London
+20241027,10:00 am,Crystal Palace,Tottenham Hotspur,Selhurst Park,London
+20241027,12:30 pm,Arsenal,Liverpool,Emirates Stadium,London
+20241102,8:30 am,Newcastle United,Arsenal,St. James' Park,Newcastle upon Tyne
+20241102,11:00 am,Ipswich Town,Leicester City,Portman Road,Ipswich
+20241102,11:00 am,Liverpool,Brighton & Hove Albion,Anfield,Liverpool
+20241102,11:00 am,Southampton,Everton,St. Mary's Stadium,Southampton
+20241102,11:00 am,Nottingham Forest,West Ham United,The City Ground,Nottingham
+20241102,11:00 am,Bournemouth,Manchester City,Vitality Stadium,Bournemouth
+20241102,1:30 pm,Wolverhampton,Crystal Palace,Molineux,Wolverhampton
+20241103,9:00 am,Tottenham Hotspur,Aston Villa,Tottenham Hotspur Stadium,London
+20241103,11:30 am,Manchester United,Chelsea,Old Trafford,Manchester
+20241109,10:00 am,West Ham United,Everton,London Stadium,London
+20241109,10:00 am,Crystal Palace,Fulham,Selhurst Park,London
+20241109,10:00 am,Wolverhampton,Southampton,Molineux,Wolverhampton
+20241109,10:00 am,Brentford,Bournemouth,Gtech Community Stadium,London
+20241109,12:30 pm,Brighton & Hove Albion,Manchester City,American Express Community Stadium,Brighton
+20241109,3:00 pm,Liverpool,Aston Villa,Anfield,Liverpool
+20241110,9:00 am,Manchester United,Leicester City,Old Trafford,Manchester
+20241110,9:00 am,Tottenham Hotspur,Ipswich Town,Tottenham Hotspur Stadium,London
+20241110,9:00 am,Nottingham Forest,Newcastle United,The City Ground,Nottingham
+20241110,11:30 am,Chelsea,Arsenal,Stamford Bridge,London
+20241123,7:30 am,Leicester City,Chelsea,King Power Stadium,Leicester
+20241123,10:00 am,Arsenal,Nottingham Forest,Emirates Stadium,London
+20241123,10:00 am,Aston Villa,Crystal Palace,Villa Park,Birmingham
+20241123,10:00 am,Everton,Brentford,Goodison Park,Liverpool
+20241123,10:00 am,Fulham,Wolverhampton,Craven Cottage,London
+20241123,10:00 am,Bournemouth,Brighton & Hove Albion,Vitality Stadium,Bournemouth
+20241123,12:30 pm,Manchester City,Tottenham Hotspur,Etihad Stadium,Manchester
+20241124,9:00 am,Southampton,Liverpool,St. Mary's Stadium,Southampton
+20241124,11:30 am,Ipswich Town,Manchester United,Portman Road,Ipswich
+20241130,10:00 am,Crystal Palace,Newcastle United,Selhurst Park,London
+20241130,10:00 am,Nottingham Forest,Ipswich Town,The City Ground,Nottingham
+20241130,10:00 am,Wolverhampton,Bournemouth,Molineux,Wolverhampton
+20241130,10:00 am,Brentford,Leicester City,Gtech Community Stadium,London
+20241130,12:30 pm,West Ham United,Arsenal,London Stadium,London
+20241201,8:30 am,Chelsea,Aston Villa,Stamford Bridge,London
+20241201,8:30 am,Manchester United,Everton,Old Trafford,Manchester
+20241201,8:30 am,Tottenham Hotspur,Fulham,Tottenham Hotspur Stadium,London
+20241201,11:00 am,Liverpool,Manchester City,Anfield,Liverpool
+20241203,2:45 pm,Arsenal,Manchester United,Emirates Stadium,London
+20241203,2:45 pm,Aston Villa,Brentford,Villa Park,Birmingham
+20241203,2:45 pm,Everton,Wolverhampton,Goodison Park,Liverpool
+20241203,2:45 pm,Ipswich Town,Crystal Palace,Portman Road,Ipswich
+20241203,2:45 pm,Leicester City,West Ham United,King Power Stadium,Leicester
+20241203,2:45 pm,Fulham,Brighton & Hove Albion,Craven Cottage,London
+20241203,2:45 pm,Bournemouth,Tottenham Hotspur,Vitality Stadium,Bournemouth
+20241204,2:45 pm,Manchester City,Nottingham Forest,Etihad Stadium,Manchester
+20241204,2:45 pm,Newcastle United,Liverpool,St. James' Park,Newcastle upon Tyne
+20241204,2:45 pm,Southampton,Chelsea,St. Mary's Stadium,Southampton
+20241207,10:00 am,Aston Villa,Southampton,Villa Park,Birmingham
+20241207,10:00 am,Everton,Liverpool,Goodison Park,Liverpool
+20241207,10:00 am,Ipswich Town,Bournemouth,Portman Road,Ipswich
+20241207,10:00 am,Leicester City,Brighton & Hove Albion,King Power Stadium,Leicester
+20241207,10:00 am,Manchester United,Nottingham Forest,Old Trafford,Manchester
+20241207,10:00 am,Tottenham Hotspur,Chelsea,Tottenham Hotspur Stadium,London
+20241207,10:00 am,West Ham United,Wolverhampton,London Stadium,London
+20241207,10:00 am,Crystal Palace,Manchester City,Selhurst Park,London
+20241207,10:00 am,Fulham,Arsenal,Craven Cottage,London
+20241207,10:00 am,Brentford,Newcastle United,Gtech Community Stadium,London
+20241214,10:00 am,Arsenal,Everton,Emirates Stadium,London
+20241214,10:00 am,Chelsea,Brentford,Stamford Bridge,London
+20241214,10:00 am,Liverpool,Fulham,Anfield,Liverpool
+20241214,10:00 am,Manchester City,Manchester United,Etihad Stadium,Manchester
+20241214,10:00 am,Newcastle United,Leicester City,St. James' Park,Newcastle upon Tyne
+20241214,10:00 am,Southampton,Tottenham Hotspur,St. Mary's Stadium,Southampton
+20241214,10:00 am,Nottingham Forest,Aston Villa,The City Ground,Nottingham
+20241214,10:00 am,Wolverhampton,Ipswich Town,Molineux,Wolverhampton
+20241214,10:00 am,Brighton & Hove Albion,Crystal Palace,American Express Community Stadium,Brighton
+20241214,10:00 am,Bournemouth,West Ham United,Vitality Stadium,Bournemouth
+20241221,10:00 am,Aston Villa,Manchester City,Villa Park,Birmingham
+20241221,10:00 am,Everton,Chelsea,Goodison Park,Liverpool
+20241221,10:00 am,Ipswich Town,Newcastle United,Portman Road,Ipswich
+20241221,10:00 am,Leicester City,Wolverhampton,King Power Stadium,Leicester
+20241221,10:00 am,Manchester United,Bournemouth,Old Trafford,Manchester
+20241221,10:00 am,Tottenham Hotspur,Liverpool,Tottenham Hotspur Stadium,London
+20241221,10:00 am,West Ham United,Brighton & Hove Albion,London Stadium,London
+20241221,10:00 am,Crystal Palace,Arsenal,Selhurst Park,London
+20241221,10:00 am,Fulham,Southampton,Craven Cottage,London
+20241221,10:00 am,Brentford,Nottingham Forest,Gtech Community Stadium,London
+20241226,10:00 am,Arsenal,Ipswich Town,Emirates Stadium,London
+20241226,10:00 am,Chelsea,Fulham,Stamford Bridge,London
+20241226,10:00 am,Liverpool,Leicester City,Anfield,Liverpool
+20241226,10:00 am,Manchester City,Everton,Etihad Stadium,Manchester
+20241226,10:00 am,Newcastle United,Aston Villa,St. James' Park,Newcastle upon Tyne
+20241226,10:00 am,Southampton,West Ham United,St. Mary's Stadium,Southampton
+20241226,10:00 am,Nottingham Forest,Tottenham Hotspur,The City Ground,Nottingham
+20241226,10:00 am,Wolverhampton,Manchester United,Molineux,Wolverhampton
+20241226,10:00 am,Brighton & Hove Albion,Brentford,American Express Community Stadium,Brighton
+20241226,10:00 am,Bournemouth,Crystal Palace,Vitality Stadium,Bournemouth
+20241229,10:00 am,Aston Villa,Brighton & Hove Albion,Villa Park,Birmingham
+20241229,10:00 am,Everton,Nottingham Forest,Goodison Park,Liverpool
+20241229,10:00 am,Ipswich Town,Chelsea,Portman Road,Ipswich
+20241229,10:00 am,Leicester City,Manchester City,King Power Stadium,Leicester
+20241229,10:00 am,Manchester United,Newcastle United,Old Trafford,Manchester
+20241229,10:00 am,Tottenham Hotspur,Wolverhampton,Tottenham Hotspur Stadium,London
+20241229,10:00 am,West Ham United,Liverpool,London Stadium,London
+20241229,10:00 am,Crystal Palace,Southampton,Selhurst Park,London
+20241229,10:00 am,Fulham,Bournemouth,Craven Cottage,London
+20241229,10:00 am,Brentford,Arsenal,Gtech Community Stadium,London
+20250104,10:00 am,Aston Villa,Leicester City,Villa Park,Birmingham
+20250104,10:00 am,Liverpool,Manchester United,Anfield,Liverpool
+20250104,10:00 am,Manchester City,West Ham United,Etihad Stadium,Manchester
+20250104,10:00 am,Southampton,Brentford,St. Mary's Stadium,Southampton
+20250104,10:00 am,Tottenham Hotspur,Newcastle United,Tottenham Hotspur Stadium,London
+20250104,10:00 am,Crystal Palace,Chelsea,Selhurst Park,London
+20250104,10:00 am,Fulham,Ipswich Town,Craven Cottage,London
+20250104,10:00 am,Wolverhampton,Nottingham Forest,Molineux,Wolverhampton
+20250104,10:00 am,Brighton & Hove Albion,Arsenal,American Express Community Stadium,Brighton
+20250104,10:00 am,Bournemouth,Everton,Vitality Stadium,Bournemouth
+20250114,2:45 pm,Arsenal,Tottenham Hotspur,Emirates Stadium,London
+20250114,2:45 pm,Everton,Aston Villa,Goodison Park,Liverpool
+20250114,2:45 pm,Ipswich Town,Brighton & Hove Albion,Portman Road,Ipswich
+20250114,2:45 pm,Leicester City,Crystal Palace,King Power Stadium,Leicester
+20250114,2:45 pm,West Ham United,Fulham,London Stadium,London
+20250114,2:45 pm,Nottingham Forest,Liverpool,The City Ground,Nottingham
+20250114,2:45 pm,Brentford,Manchester City,Gtech Community Stadium,London
+20250115,2:45 pm,Chelsea,Bournemouth,Stamford Bridge,London
+20250115,2:45 pm,Newcastle United,Wolverhampton,St. James' Park,Newcastle upon Tyne
+20250115,3:00 pm,Manchester United,Southampton,Old Trafford,Manchester
+20250118,10:00 am,Arsenal,Aston Villa,Emirates Stadium,London
+20250118,10:00 am,Chelsea,Wolverhampton,Stamford Bridge,London
+20250118,10:00 am,Everton,Tottenham Hotspur,Goodison Park,Liverpool
+20250118,10:00 am,Ipswich Town,Manchester City,Portman Road,Ipswich
+20250118,10:00 am,Leicester City,Fulham,King Power Stadium,Leicester
+20250118,10:00 am,Manchester United,Brighton & Hove Albion,Old Trafford,Manchester
+20250118,10:00 am,Newcastle United,Bournemouth,St. James' Park,Newcastle upon Tyne
+20250118,10:00 am,West Ham United,Crystal Palace,London Stadium,London
+20250118,10:00 am,Nottingham Forest,Southampton,The City Ground,Nottingham
+20250118,10:00 am,Brentford,Liverpool,Gtech Community Stadium,London
+20250125,10:00 am,Aston Villa,West Ham United,Villa Park,Birmingham
+20250125,10:00 am,Liverpool,Ipswich Town,Anfield,Liverpool
+20250125,10:00 am,Manchester City,Chelsea,Etihad Stadium,Manchester
+20250125,10:00 am,Southampton,Newcastle United,St. Mary's Stadium,Southampton
+20250125,10:00 am,Tottenham Hotspur,Leicester City,Tottenham Hotspur Stadium,London
+20250125,10:00 am,Crystal Palace,Brentford,Selhurst Park,London
+20250125,10:00 am,Fulham,Manchester United,Craven Cottage,London
+20250125,10:00 am,Wolverhampton,Arsenal,Molineux,Wolverhampton
+20250125,10:00 am,Brighton & Hove Albion,Everton,American Express Community Stadium,Brighton
+20250125,10:00 am,Bournemouth,Nottingham Forest,Vitality Stadium,Bournemouth
+20250201,10:00 am,Arsenal,Manchester City,Emirates Stadium,London
+20250201,10:00 am,Chelsea,West Ham United,Stamford Bridge,London
+20250201,10:00 am,Everton,Leicester City,Goodison Park,Liverpool
+20250201,10:00 am,Ipswich Town,Southampton,Portman Road,Ipswich
+20250201,10:00 am,Manchester United,Crystal Palace,Old Trafford,Manchester
+20250201,10:00 am,Newcastle United,Fulham,St. James' Park,Newcastle upon Tyne
+20250201,10:00 am,Nottingham Forest,Brighton & Hove Albion,The City Ground,Nottingham
+20250201,10:00 am,Wolverhampton,Aston Villa,Molineux,Wolverhampton
+20250201,10:00 am,Bournemouth,Liverpool,Vitality Stadium,Bournemouth
+20250201,10:00 am,Brentford,Tottenham Hotspur,Gtech Community Stadium,London
+20250215,10:00 am,Aston Villa,Ipswich Town,Villa Park,Birmingham
+20250215,10:00 am,Leicester City,Arsenal,King Power Stadium,Leicester
+20250215,10:00 am,Liverpool,Wolverhampton,Anfield,Liverpool
+20250215,10:00 am,Manchester City,Newcastle United,Etihad Stadium,Manchester
+20250215,10:00 am,Southampton,Bournemouth,St. Mary's Stadium,Southampton
+20250215,10:00 am,Tottenham Hotspur,Manchester United,Tottenham Hotspur Stadium,London
+20250215,10:00 am,West Ham United,Brentford,London Stadium,London
+20250215,10:00 am,Crystal Palace,Everton,Selhurst Park,London
+20250215,10:00 am,Fulham,Nottingham Forest,Craven Cottage,London
+20250215,10:00 am,Brighton & Hove Albion,Chelsea,American Express Community Stadium,Brighton
+20250222,10:00 am,Arsenal,West Ham United,Emirates Stadium,London
+20250222,10:00 am,Aston Villa,Chelsea,Villa Park,Birmingham
+20250222,10:00 am,Everton,Manchester United,Goodison Park,Liverpool
+20250222,10:00 am,Ipswich Town,Tottenham Hotspur,Portman Road,Ipswich
+20250222,10:00 am,Leicester City,Brentford,King Power Stadium,Leicester
+20250222,10:00 am,Manchester City,Liverpool,Etihad Stadium,Manchester
+20250222,10:00 am,Newcastle United,Nottingham Forest,St. James' Park,Newcastle upon Tyne
+20250222,10:00 am,Southampton,Brighton & Hove Albion,St. Mary's Stadium,Southampton
+20250222,10:00 am,Fulham,Crystal Palace,Craven Cottage,London
+20250222,10:00 am,Bournemouth,Wolverhampton,Vitality Stadium,Bournemouth
+20250308,10:00 am,Chelsea,Leicester City,Stamford Bridge,London
+20250308,10:00 am,Liverpool,Southampton,Anfield,Liverpool
+20250308,10:00 am,Manchester United,Arsenal,Old Trafford,Manchester
+20250308,10:00 am,Tottenham Hotspur,Bournemouth,Tottenham Hotspur Stadium,London
+20250308,10:00 am,West Ham United,Newcastle United,London Stadium,London
+20250308,10:00 am,Crystal Palace,Ipswich Town,Selhurst Park,London
+20250308,10:00 am,Nottingham Forest,Manchester City,The City Ground,Nottingham
+20250308,10:00 am,Wolverhampton,Everton,Molineux,Wolverhampton
+20250308,10:00 am,Brighton & Hove Albion,Fulham,American Express Community Stadium,Brighton
+20250308,10:00 am,Brentford,Aston Villa,Gtech Community Stadium,London
+20250315,11:00 am,Arsenal,Chelsea,Emirates Stadium,London
+20250315,11:00 am,Aston Villa,Liverpool,Villa Park,Birmingham
+20250315,11:00 am,Everton,West Ham United,Goodison Park,Liverpool
+20250315,11:00 am,Ipswich Town,Nottingham Forest,Portman Road,Ipswich
+20250315,11:00 am,Leicester City,Manchester United,King Power Stadium,Leicester
+20250315,11:00 am,Manchester City,Brighton & Hove Albion,Etihad Stadium,Manchester
+20250315,11:00 am,Newcastle United,Crystal Palace,St. James' Park,Newcastle upon Tyne
+20250315,11:00 am,Southampton,Wolverhampton,St. Mary's Stadium,Southampton
+20250315,11:00 am,Fulham,Tottenham Hotspur,Craven Cottage,London
+20250315,11:00 am,Bournemouth,Brentford,Vitality Stadium,Bournemouth
+20250405,10:00 am,Aston Villa,Nottingham Forest,Villa Park,Birmingham
+20250405,10:00 am,Everton,Arsenal,Goodison Park,Liverpool
+20250405,10:00 am,Ipswich Town,Wolverhampton,Portman Road,Ipswich
+20250405,10:00 am,Leicester City,Newcastle United,King Power Stadium,Leicester
+20250405,10:00 am,Manchester United,Manchester City,Old Trafford,Manchester
+20250405,10:00 am,Tottenham Hotspur,Southampton,Tottenham Hotspur Stadium,London
+20250405,10:00 am,West Ham United,Bournemouth,London Stadium,London
+20250405,10:00 am,Crystal Palace,Brighton & Hove Albion,Selhurst Park,London
+20250405,10:00 am,Fulham,Liverpool,Craven Cottage,London
+20250405,10:00 am,Brentford,Chelsea,Gtech Community Stadium,London
+20250412,10:00 am,Arsenal,Brentford,Emirates Stadium,London
+20250412,10:00 am,Chelsea,Ipswich Town,Stamford Bridge,London
+20250412,10:00 am,Liverpool,West Ham United,Anfield,Liverpool
+20250412,10:00 am,Manchester City,Crystal Palace,Etihad Stadium,Manchester
+20250412,10:00 am,Newcastle United,Manchester United,St. James' Park,Newcastle upon Tyne
+20250412,10:00 am,Southampton,Aston Villa,St. Mary's Stadium,Southampton
+20250412,10:00 am,Nottingham Forest,Everton,The City Ground,Nottingham
+20250412,10:00 am,Wolverhampton,Tottenham Hotspur,Molineux,Wolverhampton
+20250412,10:00 am,Brighton & Hove Albion,Leicester City,American Express Community Stadium,Brighton
+20250412,10:00 am,Bournemouth,Fulham,Vitality Stadium,Bournemouth
+20250419,10:00 am,Aston Villa,Newcastle United,Villa Park,Birmingham
+20250419,10:00 am,Everton,Manchester City,Goodison Park,Liverpool
+20250419,10:00 am,Ipswich Town,Arsenal,Portman Road,Ipswich
+20250419,10:00 am,Leicester City,Liverpool,King Power Stadium,Leicester
+20250419,10:00 am,Manchester United,Wolverhampton,Old Trafford,Manchester
+20250419,10:00 am,Tottenham Hotspur,Nottingham Forest,Tottenham Hotspur Stadium,London
+20250419,10:00 am,West Ham United,Southampton,London Stadium,London
+20250419,10:00 am,Crystal Palace,Bournemouth,Selhurst Park,London
+20250419,10:00 am,Fulham,Chelsea,Craven Cottage,London
+20250419,10:00 am,Brentford,Brighton & Hove Albion,Gtech Community Stadium,London
+20250426,10:00 am,Arsenal,Crystal Palace,Emirates Stadium,London
+20250426,10:00 am,Chelsea,Everton,Stamford Bridge,London
+20250426,10:00 am,Liverpool,Tottenham Hotspur,Anfield,Liverpool
+20250426,10:00 am,Manchester City,Aston Villa,Etihad Stadium,Manchester
+20250426,10:00 am,Newcastle United,Ipswich Town,St. James' Park,Newcastle upon Tyne
+20250426,10:00 am,Southampton,Fulham,St. Mary's Stadium,Southampton
+20250426,10:00 am,Nottingham Forest,Brentford,The City Ground,Nottingham
+20250426,10:00 am,Wolverhampton,Leicester City,Molineux,Wolverhampton
+20250426,10:00 am,Brighton & Hove Albion,West Ham United,American Express Community Stadium,Brighton
+20250426,10:00 am,Bournemouth,Manchester United,Vitality Stadium,Bournemouth
+20250503,10:00 am,Arsenal,Bournemouth,Emirates Stadium,London
+20250503,10:00 am,Aston Villa,Fulham,Villa Park,Birmingham
+20250503,10:00 am,Chelsea,Liverpool,Stamford Bridge,London
+20250503,10:00 am,Everton,Ipswich Town,Goodison Park,Liverpool
+20250503,10:00 am,Leicester City,Southampton,King Power Stadium,Leicester
+20250503,10:00 am,Manchester City,Wolverhampton,Etihad Stadium,Manchester
+20250503,10:00 am,West Ham United,Tottenham Hotspur,London Stadium,London
+20250503,10:00 am,Crystal Palace,Nottingham Forest,Selhurst Park,London
+20250503,10:00 am,Brighton & Hove Albion,Newcastle United,American Express Community Stadium,Brighton
+20250503,10:00 am,Brentford,Manchester United,Gtech Community Stadium,London
+20250510,10:00 am,Ipswich Town,Brentford,Portman Road,Ipswich
+20250510,10:00 am,Liverpool,Arsenal,Anfield,Liverpool
+20250510,10:00 am,Manchester United,West Ham United,Old Trafford,Manchester
+20250510,10:00 am,Newcastle United,Chelsea,St. James' Park,Newcastle upon Tyne
+20250510,10:00 am,Southampton,Manchester City,St. Mary's Stadium,Southampton
+20250510,10:00 am,Tottenham Hotspur,Crystal Palace,Tottenham Hotspur Stadium,London
+20250510,10:00 am,Nottingham Forest,Leicester City,The City Ground,Nottingham
+20250510,10:00 am,Fulham,Everton,Craven Cottage,London
+20250510,10:00 am,Wolverhampton,Brighton & Hove Albion,Molineux,Wolverhampton
+20250510,10:00 am,Bournemouth,Aston Villa,Vitality Stadium,Bournemouth
+20250518,10:00 am,Arsenal,Newcastle United,Emirates Stadium,London
+20250518,10:00 am,Aston Villa,Tottenham Hotspur,Villa Park,Birmingham
+20250518,10:00 am,Chelsea,Manchester United,Stamford Bridge,London
+20250518,10:00 am,Everton,Southampton,Goodison Park,Liverpool
+20250518,10:00 am,Leicester City,Ipswich Town,King Power Stadium,Leicester
+20250518,10:00 am,Manchester City,Bournemouth,Etihad Stadium,Manchester
+20250518,10:00 am,West Ham United,Nottingham Forest,London Stadium,London
+20250518,10:00 am,Crystal Palace,Wolverhampton,Selhurst Park,London
+20250518,10:00 am,Brighton & Hove Albion,Liverpool,American Express Community Stadium,Brighton
+20250518,10:00 am,Brentford,Fulham,Gtech Community Stadium,London
+20250525,11:00 am,Ipswich Town,West Ham United,Portman Road,Ipswich
+20250525,11:00 am,Liverpool,Crystal Palace,Anfield,Liverpool
+20250525,11:00 am,Manchester United,Aston Villa,Old Trafford,Manchester
+20250525,11:00 am,Newcastle United,Everton,St. James' Park,Newcastle upon Tyne
+20250525,11:00 am,Southampton,Arsenal,St. Mary's Stadium,Southampton
+20250525,11:00 am,Tottenham Hotspur,Brighton & Hove Albion,Tottenham Hotspur Stadium,London
+20250525,11:00 am,Nottingham Forest,Chelsea,The City Ground,Nottingham
+20250525,11:00 am,Fulham,Manchester City,Craven Cottage,London
+20250525,11:00 am,Wolverhampton,Brentford,Molineux,Wolverhampton
+20250525,11:00 am,Bournemouth,Leicester City,Vitality Stadium,Bournemouth

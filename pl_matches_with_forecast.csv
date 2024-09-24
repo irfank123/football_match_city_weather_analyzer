@@ -1,0 +1,286 @@
+date,time,home_team,away_team,venue,stadium_details,weather_forecast
+2024-10-19,7:30 am,Tottenham Hotspur,West Ham United,Tottenham Hotspur Stadium,London,Moderate or heavy rain shower
+2024-10-19,10:00 am,Ipswich Town,Everton,Portman Road,Ipswich,Moderate or heavy rain shower
+2024-10-19,10:00 am,Manchester United,Brentford,Old Trafford,Manchester,Moderate or heavy rain shower
+2024-10-19,10:00 am,Newcastle United,Brighton & Hove Albion,St. James' Park,Newcastle upon Tyne,Moderate or heavy rain shower
+2024-10-19,10:00 am,Southampton,Leicester City,St. Mary's Stadium,Southampton,Moderate or heavy rain shower
+2024-10-19,10:00 am,Fulham,Aston Villa,Craven Cottage,London,Moderate or heavy rain shower
+2024-10-19,12:30 pm,Bournemouth,Arsenal,Vitality Stadium,Bournemouth,Moderate or heavy rain shower
+2024-10-20,9:00 am,Wolverhampton,Manchester City,Molineux,Wolverhampton,Moderate or heavy rain shower
+2024-10-20,11:30 am,Liverpool,Chelsea,Anfield,Liverpool,Moderate or heavy rain shower
+2024-10-26,10:00 am,Aston Villa,Bournemouth,Villa Park,Birmingham,Moderate or heavy rain shower
+2024-10-26,10:00 am,Manchester City,Southampton,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2024-10-26,10:00 am,Brighton & Hove Albion,Wolverhampton,American Express Community Stadium,Brighton,Moderate or heavy rain shower
+2024-10-26,10:00 am,Brentford,Ipswich Town,Gtech Community Stadium,London,Moderate or heavy rain shower
+2024-10-26,12:30 pm,Everton,Fulham,Goodison Park,Liverpool,Moderate or heavy rain shower
+2024-10-27,10:00 am,Chelsea,Newcastle United,Stamford Bridge,London,Heavy rain at times
+2024-10-27,10:00 am,West Ham United,Manchester United,London Stadium,London,Heavy rain at times
+2024-10-27,10:00 am,Crystal Palace,Tottenham Hotspur,Selhurst Park,London,Heavy rain at times
+2024-10-27,12:30 pm,Arsenal,Liverpool,Emirates Stadium,London,Heavy rain at times
+2024-11-02,8:30 am,Newcastle United,Arsenal,St. James' Park,Newcastle upon Tyne,Moderate or heavy rain shower
+2024-11-02,11:00 am,Ipswich Town,Leicester City,Portman Road,Ipswich,Moderate or heavy rain shower
+2024-11-02,11:00 am,Liverpool,Brighton & Hove Albion,Anfield,Liverpool,Moderate or heavy rain shower
+2024-11-02,11:00 am,Southampton,Everton,St. Mary's Stadium,Southampton,Moderate or heavy rain shower
+2024-11-02,11:00 am,Nottingham Forest,West Ham United,The City Ground,Nottingham,Moderate or heavy rain shower
+2024-11-02,11:00 am,Bournemouth,Manchester City,Vitality Stadium,Bournemouth,Moderate or heavy rain shower
+2024-11-02,1:30 pm,Wolverhampton,Crystal Palace,Molineux,Wolverhampton,Moderate or heavy rain shower
+2024-11-03,9:00 am,Tottenham Hotspur,Aston Villa,Tottenham Hotspur Stadium,London,Moderate or heavy rain shower
+2024-11-03,11:30 am,Manchester United,Chelsea,Old Trafford,Manchester,Moderate or heavy rain shower
+2024-11-09,10:00 am,West Ham United,Everton,London Stadium,London,Moderate or heavy rain shower
+2024-11-09,10:00 am,Crystal Palace,Fulham,Selhurst Park,London,Moderate or heavy rain shower
+2024-11-09,10:00 am,Wolverhampton,Southampton,Molineux,Wolverhampton,Moderate or heavy rain shower
+2024-11-09,10:00 am,Brentford,Bournemouth,Gtech Community Stadium,London,Moderate or heavy rain shower
+2024-11-09,12:30 pm,Brighton & Hove Albion,Manchester City,American Express Community Stadium,Brighton,Moderate or heavy rain shower
+2024-11-09,3:00 pm,Liverpool,Aston Villa,Anfield,Liverpool,Moderate or heavy rain shower
+2024-11-10,9:00 am,Manchester United,Leicester City,Old Trafford,Manchester,Moderate or heavy rain shower
+2024-11-10,9:00 am,Tottenham Hotspur,Ipswich Town,Tottenham Hotspur Stadium,London,Moderate or heavy rain shower
+2024-11-10,9:00 am,Nottingham Forest,Newcastle United,The City Ground,Nottingham,Moderate rain at times
+2024-11-10,11:30 am,Chelsea,Arsenal,Stamford Bridge,London,Moderate or heavy rain shower
+2024-11-23,7:30 am,Leicester City,Chelsea,King Power Stadium,Leicester,Moderate or heavy rain shower
+2024-11-23,10:00 am,Arsenal,Nottingham Forest,Emirates Stadium,London,Moderate or heavy rain shower
+2024-11-23,10:00 am,Aston Villa,Crystal Palace,Villa Park,Birmingham,Moderate or heavy rain shower
+2024-11-23,10:00 am,Everton,Brentford,Goodison Park,Liverpool,Moderate or heavy rain shower
+2024-11-23,10:00 am,Fulham,Wolverhampton,Craven Cottage,London,Moderate or heavy rain shower
+2024-11-23,10:00 am,Bournemouth,Brighton & Hove Albion,Vitality Stadium,Bournemouth,Moderate or heavy rain shower
+2024-11-23,12:30 pm,Manchester City,Tottenham Hotspur,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2024-11-24,9:00 am,Southampton,Liverpool,St. Mary's Stadium,Southampton,Moderate or heavy rain shower
+2024-11-24,11:30 am,Ipswich Town,Manchester United,Portman Road,Ipswich,Moderate or heavy rain shower
+2024-11-30,10:00 am,Crystal Palace,Newcastle United,Selhurst Park,London,Moderate rain at times
+2024-11-30,10:00 am,Nottingham Forest,Ipswich Town,The City Ground,Nottingham,Heavy rain at times
+2024-11-30,10:00 am,Wolverhampton,Bournemouth,Molineux,Wolverhampton,Heavy rain at times
+2024-11-30,10:00 am,Brentford,Leicester City,Gtech Community Stadium,London,Moderate rain at times
+2024-11-30,12:30 pm,West Ham United,Arsenal,London Stadium,London,Moderate rain at times
+2024-12-01,8:30 am,Chelsea,Aston Villa,Stamford Bridge,London,Heavy rain at times
+2024-12-01,8:30 am,Manchester United,Everton,Old Trafford,Manchester,Moderate or heavy rain shower
+2024-12-01,8:30 am,Tottenham Hotspur,Fulham,Tottenham Hotspur Stadium,London,Heavy rain at times
+2024-12-01,11:00 am,Liverpool,Manchester City,Anfield,Liverpool,Heavy rain at times
+2024-12-03,2:45 pm,Arsenal,Manchester United,Emirates Stadium,London,Moderate or heavy rain shower
+2024-12-03,2:45 pm,Aston Villa,Brentford,Villa Park,Birmingham,Moderate or heavy rain shower
+2024-12-03,2:45 pm,Everton,Wolverhampton,Goodison Park,Liverpool,Moderate or heavy rain shower
+2024-12-03,2:45 pm,Ipswich Town,Crystal Palace,Portman Road,Ipswich,Moderate or heavy rain shower
+2024-12-03,2:45 pm,Leicester City,West Ham United,King Power Stadium,Leicester,Moderate or heavy rain shower
+2024-12-03,2:45 pm,Fulham,Brighton & Hove Albion,Craven Cottage,London,Moderate or heavy rain shower
+2024-12-03,2:45 pm,Bournemouth,Tottenham Hotspur,Vitality Stadium,Bournemouth,Moderate or heavy rain shower
+2024-12-04,2:45 pm,Manchester City,Nottingham Forest,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2024-12-04,2:45 pm,Newcastle United,Liverpool,St. James' Park,Newcastle upon Tyne,Moderate or heavy rain shower
+2024-12-04,2:45 pm,Southampton,Chelsea,St. Mary's Stadium,Southampton,Moderate or heavy rain shower
+2024-12-07,10:00 am,Aston Villa,Southampton,Villa Park,Birmingham,Moderate or heavy rain shower
+2024-12-07,10:00 am,Everton,Liverpool,Goodison Park,Liverpool,Moderate or heavy rain shower
+2024-12-07,10:00 am,Ipswich Town,Bournemouth,Portman Road,Ipswich,Moderate or heavy rain shower
+2024-12-07,10:00 am,Leicester City,Brighton & Hove Albion,King Power Stadium,Leicester,Moderate or heavy rain shower
+2024-12-07,10:00 am,Manchester United,Nottingham Forest,Old Trafford,Manchester,Moderate or heavy rain shower
+2024-12-07,10:00 am,Tottenham Hotspur,Chelsea,Tottenham Hotspur Stadium,London,Moderate or heavy rain shower
+2024-12-07,10:00 am,West Ham United,Wolverhampton,London Stadium,London,Moderate or heavy rain shower
+2024-12-07,10:00 am,Crystal Palace,Manchester City,Selhurst Park,London,Moderate or heavy rain shower
+2024-12-07,10:00 am,Fulham,Arsenal,Craven Cottage,London,Moderate or heavy rain shower
+2024-12-07,10:00 am,Brentford,Newcastle United,Gtech Community Stadium,London,Moderate or heavy rain shower
+2024-12-14,10:00 am,Arsenal,Everton,Emirates Stadium,London,Moderate or heavy rain shower
+2024-12-14,10:00 am,Chelsea,Brentford,Stamford Bridge,London,Moderate or heavy rain shower
+2024-12-14,10:00 am,Liverpool,Fulham,Anfield,Liverpool,Moderate or heavy rain shower
+2024-12-14,10:00 am,Manchester City,Manchester United,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2024-12-14,10:00 am,Newcastle United,Leicester City,St. James' Park,Newcastle upon Tyne,Moderate or heavy rain shower
+2024-12-14,10:00 am,Southampton,Tottenham Hotspur,St. Mary's Stadium,Southampton,Moderate or heavy rain shower
+2024-12-14,10:00 am,Nottingham Forest,Aston Villa,The City Ground,Nottingham,Moderate or heavy rain shower
+2024-12-14,10:00 am,Wolverhampton,Ipswich Town,Molineux,Wolverhampton,Heavy rain at times
+2024-12-14,10:00 am,Brighton & Hove Albion,Crystal Palace,American Express Community Stadium,Brighton,Moderate or heavy rain shower
+2024-12-14,10:00 am,Bournemouth,West Ham United,Vitality Stadium,Bournemouth,Moderate or heavy rain shower
+2024-12-21,10:00 am,Aston Villa,Manchester City,Villa Park,Birmingham,Moderate or heavy rain shower
+2024-12-21,10:00 am,Everton,Chelsea,Goodison Park,Liverpool,Moderate or heavy rain shower
+2024-12-21,10:00 am,Ipswich Town,Newcastle United,Portman Road,Ipswich,Moderate or heavy rain shower
+2024-12-21,10:00 am,Leicester City,Wolverhampton,King Power Stadium,Leicester,Moderate or heavy rain shower
+2024-12-21,10:00 am,Manchester United,Bournemouth,Old Trafford,Manchester,Moderate or heavy rain shower
+2024-12-21,10:00 am,Tottenham Hotspur,Liverpool,Tottenham Hotspur Stadium,London,Moderate or heavy rain shower
+2024-12-21,10:00 am,West Ham United,Brighton & Hove Albion,London Stadium,London,Moderate or heavy rain shower
+2024-12-21,10:00 am,Crystal Palace,Arsenal,Selhurst Park,London,Moderate or heavy rain shower
+2024-12-21,10:00 am,Fulham,Southampton,Craven Cottage,London,Moderate or heavy rain shower
+2024-12-21,10:00 am,Brentford,Nottingham Forest,Gtech Community Stadium,London,Moderate or heavy rain shower
+2024-12-26,10:00 am,Arsenal,Ipswich Town,Emirates Stadium,London,Moderate or heavy rain shower
+2024-12-26,10:00 am,Chelsea,Fulham,Stamford Bridge,London,Moderate or heavy rain shower
+2024-12-26,10:00 am,Liverpool,Leicester City,Anfield,Liverpool,Moderate or heavy rain shower
+2024-12-26,10:00 am,Manchester City,Everton,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2024-12-26,10:00 am,Newcastle United,Aston Villa,St. James' Park,Newcastle upon Tyne,Moderate or heavy rain shower
+2024-12-26,10:00 am,Southampton,West Ham United,St. Mary's Stadium,Southampton,Moderate or heavy rain shower
+2024-12-26,10:00 am,Nottingham Forest,Tottenham Hotspur,The City Ground,Nottingham,Moderate or heavy rain shower
+2024-12-26,10:00 am,Wolverhampton,Manchester United,Molineux,Wolverhampton,Moderate or heavy rain shower
+2024-12-26,10:00 am,Brighton & Hove Albion,Brentford,American Express Community Stadium,Brighton,Moderate or heavy rain shower
+2024-12-26,10:00 am,Bournemouth,Crystal Palace,Vitality Stadium,Bournemouth,Moderate or heavy rain shower
+2024-12-29,10:00 am,Aston Villa,Brighton & Hove Albion,Villa Park,Birmingham,Moderate or heavy rain shower
+2024-12-29,10:00 am,Everton,Nottingham Forest,Goodison Park,Liverpool,Moderate or heavy rain shower
+2024-12-29,10:00 am,Ipswich Town,Chelsea,Portman Road,Ipswich,Moderate or heavy rain shower
+2024-12-29,10:00 am,Leicester City,Manchester City,King Power Stadium,Leicester,Moderate or heavy rain shower
+2024-12-29,10:00 am,Manchester United,Newcastle United,Old Trafford,Manchester,Moderate or heavy rain shower
+2024-12-29,10:00 am,Tottenham Hotspur,Wolverhampton,Tottenham Hotspur Stadium,London,Moderate or heavy rain shower
+2024-12-29,10:00 am,West Ham United,Liverpool,London Stadium,London,Moderate or heavy rain shower
+2024-12-29,10:00 am,Crystal Palace,Southampton,Selhurst Park,London,Moderate or heavy rain shower
+2024-12-29,10:00 am,Fulham,Bournemouth,Craven Cottage,London,Moderate or heavy rain shower
+2024-12-29,10:00 am,Brentford,Arsenal,Gtech Community Stadium,London,Moderate or heavy rain shower
+2025-01-04,10:00 am,Aston Villa,Leicester City,Villa Park,Birmingham,Heavy rain at times
+2025-01-04,10:00 am,Liverpool,Manchester United,Anfield,Liverpool,Moderate rain at times
+2025-01-04,10:00 am,Manchester City,West Ham United,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2025-01-04,10:00 am,Southampton,Brentford,St. Mary's Stadium,Southampton,Moderate or heavy rain shower
+2025-01-04,10:00 am,Tottenham Hotspur,Newcastle United,Tottenham Hotspur Stadium,London,Moderate or heavy rain shower
+2025-01-04,10:00 am,Crystal Palace,Chelsea,Selhurst Park,London,Moderate or heavy rain shower
+2025-01-04,10:00 am,Fulham,Ipswich Town,Craven Cottage,London,Moderate or heavy rain shower
+2025-01-04,10:00 am,Wolverhampton,Nottingham Forest,Molineux,Wolverhampton,Moderate rain at times
+2025-01-04,10:00 am,Brighton & Hove Albion,Arsenal,American Express Community Stadium,Brighton,Moderate or heavy rain shower
+2025-01-04,10:00 am,Bournemouth,Everton,Vitality Stadium,Bournemouth,Moderate or heavy rain shower
+2025-01-14,2:45 pm,Arsenal,Tottenham Hotspur,Emirates Stadium,London,Moderate or heavy rain shower
+2025-01-14,2:45 pm,Everton,Aston Villa,Goodison Park,Liverpool,Moderate or heavy rain shower
+2025-01-14,2:45 pm,Ipswich Town,Brighton & Hove Albion,Portman Road,Ipswich,Moderate or heavy rain shower
+2025-01-14,2:45 pm,Leicester City,Crystal Palace,King Power Stadium,Leicester,Moderate or heavy rain shower
+2025-01-14,2:45 pm,West Ham United,Fulham,London Stadium,London,Moderate or heavy rain shower
+2025-01-14,2:45 pm,Nottingham Forest,Liverpool,The City Ground,Nottingham,Moderate or heavy rain shower
+2025-01-14,2:45 pm,Brentford,Manchester City,Gtech Community Stadium,London,Moderate or heavy rain shower
+2025-01-15,2:45 pm,Chelsea,Bournemouth,Stamford Bridge,London,Moderate or heavy rain shower
+2025-01-15,2:45 pm,Newcastle United,Wolverhampton,St. James' Park,Newcastle upon Tyne,Moderate or heavy rain shower
+2025-01-15,3:00 pm,Manchester United,Southampton,Old Trafford,Manchester,Moderate or heavy rain shower
+2025-01-18,10:00 am,Arsenal,Aston Villa,Emirates Stadium,London,Moderate or heavy rain shower
+2025-01-18,10:00 am,Chelsea,Wolverhampton,Stamford Bridge,London,Moderate or heavy rain shower
+2025-01-18,10:00 am,Everton,Tottenham Hotspur,Goodison Park,Liverpool,Moderate or heavy rain shower
+2025-01-18,10:00 am,Ipswich Town,Manchester City,Portman Road,Ipswich,Moderate or heavy rain shower
+2025-01-18,10:00 am,Leicester City,Fulham,King Power Stadium,Leicester,Heavy rain at times
+2025-01-18,10:00 am,Manchester United,Brighton & Hove Albion,Old Trafford,Manchester,Moderate or heavy rain shower
+2025-01-18,10:00 am,Newcastle United,Bournemouth,St. James' Park,Newcastle upon Tyne,Heavy rain at times
+2025-01-18,10:00 am,West Ham United,Crystal Palace,London Stadium,London,Moderate or heavy rain shower
+2025-01-18,10:00 am,Nottingham Forest,Southampton,The City Ground,Nottingham,Moderate rain at times
+2025-01-18,10:00 am,Brentford,Liverpool,Gtech Community Stadium,London,Moderate or heavy rain shower
+2025-01-25,10:00 am,Aston Villa,West Ham United,Villa Park,Birmingham,Heavy rain at times
+2025-01-25,10:00 am,Liverpool,Ipswich Town,Anfield,Liverpool,Moderate or heavy rain shower
+2025-01-25,10:00 am,Manchester City,Chelsea,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2025-01-25,10:00 am,Southampton,Newcastle United,St. Mary's Stadium,Southampton,Heavy rain at times
+2025-01-25,10:00 am,Tottenham Hotspur,Leicester City,Tottenham Hotspur Stadium,London,Heavy rain at times
+2025-01-25,10:00 am,Crystal Palace,Brentford,Selhurst Park,London,Heavy rain at times
+2025-01-25,10:00 am,Fulham,Manchester United,Craven Cottage,London,Heavy rain at times
+2025-01-25,10:00 am,Wolverhampton,Arsenal,Molineux,Wolverhampton,Heavy rain at times
+2025-01-25,10:00 am,Brighton & Hove Albion,Everton,American Express Community Stadium,Brighton,Heavy rain at times
+2025-01-25,10:00 am,Bournemouth,Nottingham Forest,Vitality Stadium,Bournemouth,Heavy rain at times
+2025-02-01,10:00 am,Arsenal,Manchester City,Emirates Stadium,London,Moderate or heavy rain shower
+2025-02-01,10:00 am,Chelsea,West Ham United,Stamford Bridge,London,Moderate or heavy rain shower
+2025-02-01,10:00 am,Everton,Leicester City,Goodison Park,Liverpool,Moderate rain at times
+2025-02-01,10:00 am,Ipswich Town,Southampton,Portman Road,Ipswich,Moderate or heavy rain shower
+2025-02-01,10:00 am,Manchester United,Crystal Palace,Old Trafford,Manchester,Heavy rain at times
+2025-02-01,10:00 am,Newcastle United,Fulham,St. James' Park,Newcastle upon Tyne,Moderate rain at times
+2025-02-01,10:00 am,Nottingham Forest,Brighton & Hove Albion,The City Ground,Nottingham,Moderate rain at times
+2025-02-01,10:00 am,Wolverhampton,Aston Villa,Molineux,Wolverhampton,Moderate rain at times
+2025-02-01,10:00 am,Bournemouth,Liverpool,Vitality Stadium,Bournemouth,Moderate or heavy rain shower
+2025-02-01,10:00 am,Brentford,Tottenham Hotspur,Gtech Community Stadium,London,Moderate or heavy rain shower
+2025-02-15,10:00 am,Aston Villa,Ipswich Town,Villa Park,Birmingham,Moderate or heavy rain shower
+2025-02-15,10:00 am,Leicester City,Arsenal,King Power Stadium,Leicester,Heavy rain at times
+2025-02-15,10:00 am,Liverpool,Wolverhampton,Anfield,Liverpool,Moderate or heavy rain shower
+2025-02-15,10:00 am,Manchester City,Newcastle United,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2025-02-15,10:00 am,Southampton,Bournemouth,St. Mary's Stadium,Southampton,Moderate or heavy rain shower
+2025-02-15,10:00 am,Tottenham Hotspur,Manchester United,Tottenham Hotspur Stadium,London,Heavy rain at times
+2025-02-15,10:00 am,West Ham United,Brentford,London Stadium,London,Heavy rain at times
+2025-02-15,10:00 am,Crystal Palace,Everton,Selhurst Park,London,Heavy rain at times
+2025-02-15,10:00 am,Fulham,Nottingham Forest,Craven Cottage,London,Heavy rain at times
+2025-02-15,10:00 am,Brighton & Hove Albion,Chelsea,American Express Community Stadium,Brighton,Heavy rain at times
+2025-02-22,10:00 am,Arsenal,West Ham United,Emirates Stadium,London,Moderate or heavy rain shower
+2025-02-22,10:00 am,Aston Villa,Chelsea,Villa Park,Birmingham,Moderate or heavy rain shower
+2025-02-22,10:00 am,Everton,Manchester United,Goodison Park,Liverpool,Moderate or heavy rain shower
+2025-02-22,10:00 am,Ipswich Town,Tottenham Hotspur,Portman Road,Ipswich,Moderate or heavy rain shower
+2025-02-22,10:00 am,Leicester City,Brentford,King Power Stadium,Leicester,Moderate or heavy rain shower
+2025-02-22,10:00 am,Manchester City,Liverpool,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2025-02-22,10:00 am,Newcastle United,Nottingham Forest,St. James' Park,Newcastle upon Tyne,Moderate or heavy rain shower
+2025-02-22,10:00 am,Southampton,Brighton & Hove Albion,St. Mary's Stadium,Southampton,Moderate or heavy rain shower
+2025-02-22,10:00 am,Fulham,Crystal Palace,Craven Cottage,London,Moderate or heavy rain shower
+2025-02-22,10:00 am,Bournemouth,Wolverhampton,Vitality Stadium,Bournemouth,Moderate or heavy rain shower
+2025-03-08,10:00 am,Chelsea,Leicester City,Stamford Bridge,London,Moderate or heavy rain shower
+2025-03-08,10:00 am,Liverpool,Southampton,Anfield,Liverpool,Moderate or heavy rain shower
+2025-03-08,10:00 am,Manchester United,Arsenal,Old Trafford,Manchester,Moderate or heavy rain shower
+2025-03-08,10:00 am,Tottenham Hotspur,Bournemouth,Tottenham Hotspur Stadium,London,Moderate or heavy rain shower
+2025-03-08,10:00 am,West Ham United,Newcastle United,London Stadium,London,Moderate or heavy rain shower
+2025-03-08,10:00 am,Crystal Palace,Ipswich Town,Selhurst Park,London,Moderate or heavy rain shower
+2025-03-08,10:00 am,Nottingham Forest,Manchester City,The City Ground,Nottingham,Heavy rain at times
+2025-03-08,10:00 am,Wolverhampton,Everton,Molineux,Wolverhampton,Moderate or heavy rain shower
+2025-03-08,10:00 am,Brighton & Hove Albion,Fulham,American Express Community Stadium,Brighton,Moderate or heavy rain shower
+2025-03-08,10:00 am,Brentford,Aston Villa,Gtech Community Stadium,London,Moderate or heavy rain shower
+2025-03-15,11:00 am,Arsenal,Chelsea,Emirates Stadium,London,Moderate or heavy rain shower
+2025-03-15,11:00 am,Aston Villa,Liverpool,Villa Park,Birmingham,Moderate or heavy rain shower
+2025-03-15,11:00 am,Everton,West Ham United,Goodison Park,Liverpool,Moderate or heavy rain shower
+2025-03-15,11:00 am,Ipswich Town,Nottingham Forest,Portman Road,Ipswich,Heavy rain at times
+2025-03-15,11:00 am,Leicester City,Manchester United,King Power Stadium,Leicester,Heavy rain at times
+2025-03-15,11:00 am,Manchester City,Brighton & Hove Albion,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2025-03-15,11:00 am,Newcastle United,Crystal Palace,St. James' Park,Newcastle upon Tyne,Moderate rain at times
+2025-03-15,11:00 am,Southampton,Wolverhampton,St. Mary's Stadium,Southampton,Moderate or heavy rain shower
+2025-03-15,11:00 am,Fulham,Tottenham Hotspur,Craven Cottage,London,Moderate or heavy rain shower
+2025-03-15,11:00 am,Bournemouth,Brentford,Vitality Stadium,Bournemouth,Moderate or heavy rain shower
+2025-04-05,10:00 am,Aston Villa,Nottingham Forest,Villa Park,Birmingham,Heavy rain at times
+2025-04-05,10:00 am,Everton,Arsenal,Goodison Park,Liverpool,Moderate or heavy rain shower
+2025-04-05,10:00 am,Ipswich Town,Wolverhampton,Portman Road,Ipswich,Moderate rain at times
+2025-04-05,10:00 am,Leicester City,Newcastle United,King Power Stadium,Leicester,Heavy rain at times
+2025-04-05,10:00 am,Manchester United,Manchester City,Old Trafford,Manchester,Moderate or heavy rain shower
+2025-04-05,10:00 am,Tottenham Hotspur,Southampton,Tottenham Hotspur Stadium,London,Moderate rain at times
+2025-04-05,10:00 am,West Ham United,Bournemouth,London Stadium,London,Moderate rain at times
+2025-04-05,10:00 am,Crystal Palace,Brighton & Hove Albion,Selhurst Park,London,Moderate rain at times
+2025-04-05,10:00 am,Fulham,Liverpool,Craven Cottage,London,Moderate rain at times
+2025-04-05,10:00 am,Brentford,Chelsea,Gtech Community Stadium,London,Moderate rain at times
+2025-04-12,10:00 am,Arsenal,Brentford,Emirates Stadium,London,Heavy rain at times
+2025-04-12,10:00 am,Chelsea,Ipswich Town,Stamford Bridge,London,Heavy rain at times
+2025-04-12,10:00 am,Liverpool,West Ham United,Anfield,Liverpool,Heavy rain at times
+2025-04-12,10:00 am,Manchester City,Crystal Palace,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2025-04-12,10:00 am,Newcastle United,Manchester United,St. James' Park,Newcastle upon Tyne,Moderate or heavy rain shower
+2025-04-12,10:00 am,Southampton,Aston Villa,St. Mary's Stadium,Southampton,Heavy rain at times
+2025-04-12,10:00 am,Nottingham Forest,Everton,The City Ground,Nottingham,Moderate or heavy rain shower
+2025-04-12,10:00 am,Wolverhampton,Tottenham Hotspur,Molineux,Wolverhampton,Moderate or heavy rain shower
+2025-04-12,10:00 am,Brighton & Hove Albion,Leicester City,American Express Community Stadium,Brighton,Moderate or heavy rain shower
+2025-04-12,10:00 am,Bournemouth,Fulham,Vitality Stadium,Bournemouth,Heavy rain at times
+2025-04-19,10:00 am,Aston Villa,Newcastle United,Villa Park,Birmingham,Moderate rain at times
+2025-04-19,10:00 am,Everton,Manchester City,Goodison Park,Liverpool,Patchy rain possible
+2025-04-19,10:00 am,Ipswich Town,Arsenal,Portman Road,Ipswich,Moderate rain at times
+2025-04-19,10:00 am,Leicester City,Liverpool,King Power Stadium,Leicester,Moderate rain at times
+2025-04-19,10:00 am,Manchester United,Wolverhampton,Old Trafford,Manchester,Moderate rain at times
+2025-04-19,10:00 am,Tottenham Hotspur,Nottingham Forest,Tottenham Hotspur Stadium,London,Patchy rain possible
+2025-04-19,10:00 am,West Ham United,Southampton,London Stadium,London,Patchy rain possible
+2025-04-19,10:00 am,Crystal Palace,Bournemouth,Selhurst Park,London,Patchy rain possible
+2025-04-19,10:00 am,Fulham,Chelsea,Craven Cottage,London,Patchy rain possible
+2025-04-19,10:00 am,Brentford,Brighton & Hove Albion,Gtech Community Stadium,London,Patchy rain possible
+2025-04-26,10:00 am,Arsenal,Crystal Palace,Emirates Stadium,London,Heavy rain at times
+2025-04-26,10:00 am,Chelsea,Everton,Stamford Bridge,London,Heavy rain at times
+2025-04-26,10:00 am,Liverpool,Tottenham Hotspur,Anfield,Liverpool,Moderate or heavy rain shower
+2025-04-26,10:00 am,Manchester City,Aston Villa,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2025-04-26,10:00 am,Newcastle United,Ipswich Town,St. James' Park,Newcastle upon Tyne,Moderate or heavy rain shower
+2025-04-26,10:00 am,Southampton,Fulham,St. Mary's Stadium,Southampton,Moderate or heavy rain shower
+2025-04-26,10:00 am,Nottingham Forest,Brentford,The City Ground,Nottingham,Heavy rain at times
+2025-04-26,10:00 am,Wolverhampton,Leicester City,Molineux,Wolverhampton,Moderate rain at times
+2025-04-26,10:00 am,Brighton & Hove Albion,West Ham United,American Express Community Stadium,Brighton,Heavy rain at times
+2025-04-26,10:00 am,Bournemouth,Manchester United,Vitality Stadium,Bournemouth,Moderate or heavy rain shower
+2025-05-03,10:00 am,Arsenal,Bournemouth,Emirates Stadium,London,Moderate or heavy rain shower
+2025-05-03,10:00 am,Aston Villa,Fulham,Villa Park,Birmingham,Moderate or heavy rain shower
+2025-05-03,10:00 am,Chelsea,Liverpool,Stamford Bridge,London,Moderate or heavy rain shower
+2025-05-03,10:00 am,Everton,Ipswich Town,Goodison Park,Liverpool,Moderate or heavy rain shower
+2025-05-03,10:00 am,Leicester City,Southampton,King Power Stadium,Leicester,Moderate or heavy rain shower
+2025-05-03,10:00 am,Manchester City,Wolverhampton,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2025-05-03,10:00 am,West Ham United,Tottenham Hotspur,London Stadium,London,Moderate or heavy rain shower
+2025-05-03,10:00 am,Crystal Palace,Nottingham Forest,Selhurst Park,London,Moderate or heavy rain shower
+2025-05-03,10:00 am,Brighton & Hove Albion,Newcastle United,American Express Community Stadium,Brighton,Heavy rain at times
+2025-05-03,10:00 am,Brentford,Manchester United,Gtech Community Stadium,London,Moderate or heavy rain shower
+2025-05-10,10:00 am,Ipswich Town,Brentford,Portman Road,Ipswich,Moderate or heavy rain shower
+2025-05-10,10:00 am,Liverpool,Arsenal,Anfield,Liverpool,Moderate or heavy rain shower
+2025-05-10,10:00 am,Manchester United,West Ham United,Old Trafford,Manchester,Moderate or heavy rain shower
+2025-05-10,10:00 am,Newcastle United,Chelsea,St. James' Park,Newcastle upon Tyne,Moderate or heavy rain shower
+2025-05-10,10:00 am,Southampton,Manchester City,St. Mary's Stadium,Southampton,Moderate or heavy rain shower
+2025-05-10,10:00 am,Tottenham Hotspur,Crystal Palace,Tottenham Hotspur Stadium,London,Moderate or heavy rain shower
+2025-05-10,10:00 am,Nottingham Forest,Leicester City,The City Ground,Nottingham,Moderate or heavy rain shower
+2025-05-10,10:00 am,Fulham,Everton,Craven Cottage,London,Moderate or heavy rain shower
+2025-05-10,10:00 am,Wolverhampton,Brighton & Hove Albion,Molineux,Wolverhampton,Moderate or heavy rain shower
+2025-05-10,10:00 am,Bournemouth,Aston Villa,Vitality Stadium,Bournemouth,Moderate or heavy rain shower
+2025-05-18,10:00 am,Arsenal,Newcastle United,Emirates Stadium,London,Moderate or heavy rain shower
+2025-05-18,10:00 am,Aston Villa,Tottenham Hotspur,Villa Park,Birmingham,Moderate or heavy rain shower
+2025-05-18,10:00 am,Chelsea,Manchester United,Stamford Bridge,London,Moderate or heavy rain shower
+2025-05-18,10:00 am,Everton,Southampton,Goodison Park,Liverpool,Moderate or heavy rain shower
+2025-05-18,10:00 am,Leicester City,Ipswich Town,King Power Stadium,Leicester,Moderate or heavy rain shower
+2025-05-18,10:00 am,Manchester City,Bournemouth,Etihad Stadium,Manchester,Moderate or heavy rain shower
+2025-05-18,10:00 am,West Ham United,Nottingham Forest,London Stadium,London,Moderate or heavy rain shower
+2025-05-18,10:00 am,Crystal Palace,Wolverhampton,Selhurst Park,London,Moderate or heavy rain shower
+2025-05-18,10:00 am,Brighton & Hove Albion,Liverpool,American Express Community Stadium,Brighton,Moderate or heavy rain shower
+2025-05-18,10:00 am,Brentford,Fulham,Gtech Community Stadium,London,Moderate or heavy rain shower
+2025-05-25,11:00 am,Ipswich Town,West Ham United,Portman Road,Ipswich,Patchy rain possible
+2025-05-25,11:00 am,Liverpool,Crystal Palace,Anfield,Liverpool,Moderate or heavy rain shower
+2025-05-25,11:00 am,Manchester United,Aston Villa,Old Trafford,Manchester,Moderate or heavy rain shower
+2025-05-25,11:00 am,Newcastle United,Everton,St. James' Park,Newcastle upon Tyne,Moderate or heavy rain shower
+2025-05-25,11:00 am,Southampton,Arsenal,St. Mary's Stadium,Southampton,Moderate rain at times
+2025-05-25,11:00 am,Tottenham Hotspur,Brighton & Hove Albion,Tottenham Hotspur Stadium,London,Patchy rain possible
+2025-05-25,11:00 am,Nottingham Forest,Chelsea,The City Ground,Nottingham,Moderate or heavy rain shower
+2025-05-25,11:00 am,Fulham,Manchester City,Craven Cottage,London,Patchy rain possible
+2025-05-25,11:00 am,Wolverhampton,Brentford,Molineux,Wolverhampton,Moderate or heavy rain shower
+2025-05-25,11:00 am,Bournemouth,Leicester City,Vitality Stadium,Bournemouth,Heavy rain at times
